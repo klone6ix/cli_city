@@ -1,0 +1,58 @@
+= Features =
+- [ ] Starting options
+	- [ ] Defaults
+	- [ ] Population size
+	- [ ] Materials
+	- [ ] Army size
+	- [ ] City name
+
+- [ ] Pop growth
+	- [ ] Morale
+		- [ ] Food
+		- [ ] Entertainment
+		- [ ] Goods
+		- [ ] Jobs
+			- [ ] Employed:Unemployed
+				- [ ] Unemployed affact morale
+
+- [ ] Army
+	- [ ] Combat simulator?
+	- [ ] Swordsman
+	- [ ] Archers
+	- [ ] Cavs
+	- [ ] Wizards?
+	- [ ] Send troops on expeditions
+		- [ ] Turn amount
+		- [ ] Find rares
+		- [ ] Find materials
+
+- [ ] Materials
+	- [ ] Copper
+	- [ ] Iron
+	- [ ] Wood
+	- [ ] Hemp
+
+- [ ] Commands
+	- [ ] Materials
+	- [ ] Next turn
+	- [ ] Explore
+		- [ ] Options for cave, valley, ocean
+			- [ ] Loot returned based on terrain type
+	- [ ] List Buildings
+	- [ ] List Army
+	- [ ] Stats
+	- [ ] Help
+		- [ ] Command list
+
+- [ ] Buildings
+	- [ ] Town Hall
+		- [ ] Upgrades
+			- [ ] Morale boost
+			- [ ] Population size
+			- [ ] Resource storage
+			- [ ] Unlocks
+
+- [ ] Tech
+	- [ ] Troops
+	- [ ] Food production
+	- [ ] Buildings
